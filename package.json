@@ -1,0 +1,22 @@
+{
+  "name": "firebase-cli",
+  "version": "0.0.1",
+  "description": "A simple tool to interact with a Firebase Cloud database.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttowncompiled/FirebaseCLI.git"
+  },
+  "keywords": [
+    "Fireabase"
+  ],
+  "author": "Ian Riley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttowncompiled/FirebaseCLI/issues"
+  },
+  "homepage": "https://github.com/ttowncompiled/FirebaseCLI#readme",
+  "dependencies": {
+    "firebase": "^3.0.3",
+    "fs": "0.0.2"
+  }
+}
